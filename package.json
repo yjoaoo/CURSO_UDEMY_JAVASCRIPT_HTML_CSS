@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

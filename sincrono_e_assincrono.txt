@@ -1,0 +1,9 @@
+Síncrono
+Definição: As tarefas são executadas uma de cada vez, 
+na ordem em que foram chamadas. Uma tarefa só inicia após
+a conclusão da anterior.
+
+Assíncrono
+Definição: As tarefas podem ser iniciadas e executadas 
+em paralelo ou de forma independente. O programa não precisa 
+esperar a conclusão de uma tarefa para continuar com outras.
